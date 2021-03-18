@@ -1,0 +1,9 @@
+cask_args appdir: "/Applications"
+brew 'awscli'
+brew 'gnu-tar'
+brew 'python'
+brew 'ripgrep'
+brew 'npm'
+brew 'tmux'
+brew 'wget'
+cask 'iterm2'
